@@ -1,6 +1,6 @@
 # Joshua K. Prier                                                                         
-### 607-205-7668  
-### [JoshKPrier@gmail.com](mailto:JoshKPrier@gmail.com)
+### 607-205-7668
+#### [JoshKPrier@gmail.com](mailto:JoshKPrier@gmail.com)
 
 [jprier.github.io/](https://jprier.github.io/) | [linkedin.com/in/jprier/](https://www.linkedin.com/in/jprier/) | [github.com/JPrier](https://github.com/JPrier)
 
