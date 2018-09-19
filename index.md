@@ -1,28 +1,30 @@
-## **Joshua K. Prier                                                                            ** 607-205-7668 [JoshKPrier@gmail.com](mailto:JoshKPrier@gmail.com)
+# Joshua K. Prier                                                                         
+##607-205-7668 [JoshKPrier@gmail.com](mailto:JoshKPrier@gmail.com)
 
 [jprier.github.io/](https://jprier.github.io/) | [linkedin.com/in/jprier/](https://www.linkedin.com/in/jprier/) | [github.com/JPrier](https://github.com/JPrier)
 
-**Skills**
+##Skills
 
--
   - **Programming:** Python, Java, C/C++, SQL, JavaScript, R, Racket, Haskell, HTML, CSS
   - **Libraries/Frameworks:** TensorFlow, Keras, Sci-kit learn, xgboost, numpy, pandas
   - **Tools:** Git, Jupyter, Linux, pfsense
 
-**Education**
+##Education
 
-**University of Toronto**         Toronto, Ontario
-
-Candidate: Hon B.Sc, Computer Science Specialist_       _ December 2019
+**University of Toronto**         
+Toronto, Ontario
+Candidate: Hon B.Sc, Computer Science Specialist
+December 2019
 
 _Specialty_: Artificial Intelligence, Machine Learning, and Computer Vision
+
 _Coursework:_  Machine Learning and Data Mining, Probabilistic Learning and Reasoning, Visual Computing, Computer Graphics, Natural Language Computing, Neural Networks and Deep Learning, Operating Systems, Computer Networks, Databases, Statistics
 
-**Experience**
+##Experience
 
-**Amazon.com, Alexa Mobile Devices**         Seattle, Washington
+####Amazon.com, Alexa Mobile Devices         Seattle, Washington
 
-### _Software Development Engineer Intern       _ June 2018 - August 2018
+ *Software Development Engineer Intern*        June 2018 - August 2018
 
 - Ambitiously worked on the [Alexa Android Mobile SDK](https://play.google.com/store/apps/details?id=com.amazon.dee.app) for over 10 million clients
 - Conceptualized the Alerts architecture for the Alexa Android Mobile SDK
