@@ -19,31 +19,34 @@ December 2019
 
 _Specialty_: Artificial Intelligence, Machine Learning, and Computer Vision
 
-_Coursework:_  Machine Learning and Data Mining, Probabilistic Learning and Reasoning, Visual Computing, Computer Graphics, Natural Language Computing, Neural Networks and Deep Learning, Operating Systems, Computer Networks, Databases, Statistics
+_Related Coursework:_  Machine Learning and Data Mining, Probabilistic Learning and Reasoning, Visual Computing, Computer Graphics, Natural Language Computing, Neural Networks and Deep Learning, Operating Systems, Computer Networks, Databases, Statistics
 
 ## Experience
 
-### Amazon.com, Alexa Mobile Devices         Seattle, Washington
-
- *Software Development Engineer Intern*        June 2018 - August 2018
+### Amazon.com, Alexa Mobile Devices  
+ *Software Development Engineer Intern*  
+ June 2018 - August 2018  
+ Seattle, Washington
 
 - Ambitiously worked on the [Alexa Android Mobile SDK](https://play.google.com/store/apps/details?id=com.amazon.dee.app) for over 10 million clients
 - Conceptualized the Alerts architecture for the Alexa Android Mobile SDK
 - Successfully implemented multi-threading and a SQL Database within the Alerts design
 - Enhanced the quality of the application by successfully resolving three large bugs
 
-**University of Toronto Podcast Club, Executive**         Toronto, Ontario
+### University of Toronto Podcast Club, Executive  
+*Tech Leader*        
+April 2018 - Present  
+Toronto, Ontario
 
-### Tech Leader        April 2018 - Present
-
-- Independently Coordinated and developed the club&#39;s official website and Jump-started the clubs online presence
+- Independently coordinated and developed the club&#39;s official website and Jump-started the clubs online presence
 - Aided in technological help for the club&#39;s members
 - Manage all recording, mixing, and management of audio
 - Mentor club members on audio mixing and web development
 
-**Lourdes Hospital, Operating Room**         Binghamton, New York
-
-### Surgical Technician Assistant        May 2016-August 2016 &amp; May 2017
+### Lourdes Hospital, Operating Room  
+*Surgical Technician Assistant*          
+May 2016-August 2016 &amp; May 2017  
+Binghamton, New York
 
 - Assisted surgical technicians and nurses with preparation of surgical tools and positioning of patients
 - Diligently adapted to work within a rigorously sterile location on a daily basis
