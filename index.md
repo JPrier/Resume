@@ -39,7 +39,7 @@ April 2018 - Present
 Toronto, Ontario
 
 - Independently coordinated and developed the club&#39;s official website and Jump-started the clubs online presence
-- Aided in technological help for the club&#39;s members
+- Provide technological help for the club&#39;s members
 - Manage all recording, mixing, and management of audio
 - Mentor club members on audio mixing and web development
 
