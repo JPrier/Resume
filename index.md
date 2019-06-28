@@ -34,9 +34,9 @@ _Related Coursework:_  Machine Learning and Data Mining, Probabilistic Learning 
 - Enhanced the quality of the application by successfully resolving three large bugs
 
 ### Amazon.com, Customer Service Case Management
-  *Software Development Engineer Intern*
-  May 2019 - August 2019
-  Toronto, Ontario
+  *Software Development Engineer Intern*  
+  May 2019 - August 2019  
+  Toronto, Ontario  
   
   - Gained experience with personal ownership of a production level database
   - Added encryption to an already running database
