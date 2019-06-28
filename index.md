@@ -33,34 +33,21 @@ _Related Coursework:_  Machine Learning and Data Mining, Probabilistic Learning 
 - Successfully implemented multi-threading and a SQL Database within the Alerts design
 - Enhanced the quality of the application by successfully resolving three large bugs
 
-### University of Toronto Podcast Club, Executive  
-*Tech Leader*        
-April 2018 - Present  
-Toronto, Ontario
-
-- Independently coordinated and developed the club&#39;s official website and Jump-started the clubs online presence
-- Provide technological help for the club&#39;s members
-- Manage all recording, mixing, and management of audio
-- Mentor club members on audio mixing and web development
-
-### Lourdes Hospital, Operating Room  
-*Surgical Technician Assistant*          
-May 2016-August 2016 &amp; May 2017  
-Binghamton, New York
-
-- Assisted surgical technicians and nurses with preparation of surgical tools and positioning of patients
-- Diligently adapted to work within a rigorously sterile location on a daily basis
-- Facilitated the beginning of a recycling program
+### Amazon.com, Customer Service Case Management
+  *Software Development Engineer Intern*
+  May 2019 - August 2019
+  Toronto, Ontario
+  
+  - Gained experience with personal ownership of a production level database
+  - Added encryption to an already running database
+  - Developed personal skills in software organization and API architecture
 
 ## Projects
 
-**AI Safety Gridworlds (**[**github.com/deepmind/ai-safety-gridworlds**](https://github.com/deepmind/ai-safety-gridworlds)**)**
-
-- Researching and testing new reinforcement learning algorithms to solve various AI Safety Problems
-
-**Kaggle Competitions**
-
-- Collaborated with other machine learning and data science specialists to attain experience with Large Data Related Problems
+**Toronto Bike Share**
+- Performed EDA on 2017 Toronto Bike Share dataset
+- Developed predictive model to help increase efficiency within the Bike Share system
+- Implemented a production ready service and API for the model to continue to learn and predict in real-time
 
 **HomeLab**
 
