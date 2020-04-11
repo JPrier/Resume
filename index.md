@@ -6,7 +6,7 @@
 
 ## Skills
 
-  - **Programming:** Python, Java, C/C++, SQL, JavaScript, R, Racket, Haskell, HTML, CSS
+  - **Programming:** Python, Java, C, C++, SQL, JavaScript, R, Racket, Haskell, HTML, CSS
   - **Libraries/Frameworks:** TensorFlow, Keras, Sci-kit learn, xgboost, numpy, pandas
   - **Tools:** Git, Jupyter, Linux, pfsense
 
