@@ -44,14 +44,8 @@ _Related Coursework:_  Machine Learning and Data Mining, Probabilistic Learning 
 
 ## Projects
 
-**Toronto Bike Share**
-- Performed EDA on 2017 Toronto Bike Share dataset
-- Developed predictive model to help increase efficiency within the Bike Share system
-- Implemented a production ready service and API for the model to continue to learn and predict in real-time
+**DynaPlay**
+A Game that is fully procedurally generated, try to get through the most amount of procedurally generated minigames
+- runs fully on the client no need to run a backend
+- Can generate unique games that will always be playable
 
-**HomeLab**
-
-- Researched and designed the beginning of a personal home network
-- Implemented pfsense firewall and routing
-- Restructured VLANs for additional security using a Cisco enterprise switch
-- Introduced a machine learning server for GPU training
