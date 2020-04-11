@@ -49,6 +49,6 @@ _Related Coursework:_  Machine Learning and Data Mining, Probabilistic Learning 
 **DynaPlay**
 
 A Game that is fully procedurally generated, try to get through the most amount of procedurally generated minigames
-- runs fully on the client no need to run a backend
-- Can generate unique games that will always be playable
+- runs fully on the client with no need to run a backend
+- Can generate unique games that are guaranteed playable
 
