@@ -6,8 +6,8 @@
 
 ## Skills
 
-  - **Programming:** Python, Java, C, C++, SQL, JavaScript, R, Racket, Haskell, HTML, CSS
-  - **Libraries/Frameworks:** TensorFlow, Keras, Sci-kit learn, xgboost, numpy, pandas
+  - **Programming:** Python, Java, C, C++, SQL, JavaScript, R
+  - **Libraries/Frameworks:** TensorFlow, sklearn, xgboost, numpy, pandas, AWS
   - **Tools:** Git, Jupyter, Linux, pfsense
 
 ## Education
@@ -38,10 +38,12 @@ _Related Coursework:_  Machine Learning and Data Mining, Probabilistic Learning 
   May 2019 - August 2019  
   Toronto, Ontario  
   
-  - Gained experience with personal ownership of a production level database
-  - Added encryption to an already running database
-  - Developed personal skills in software organization and API architecture
-
+  - Implemented encryption for customer data into a production level service
+  - Added to APIs that are requested 200 times per second
+  - Closely worked with AWS services such as EC2, DynamoDb, RDS, and S3
+  - Built a backfiller to keep a production database up to date
+  - Worked with internal clients to adapt service API calls
+  
 ## Projects
 
 **DynaPlay**
