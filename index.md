@@ -6,9 +6,9 @@
 
 ## Skills
 
-  - **Programming:** Python, Java, C, C++, SQL, JavaScript, R
+  - **Programming:** Python, Ruby, Java, C#, SQL, JavaScript, R
   - **Libraries/Frameworks:** numpy, pandas, AWS
-  - **Tools:** Git, Linux, pfsense, TrueNASCore
+  - **Tools:** Git, Linux, pfsense, TrueNAS/FreeNAS
 
 ## Education
 
