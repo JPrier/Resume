@@ -7,8 +7,8 @@
 ## Skills
 
   - **Programming:** Python, Java, C, C++, SQL, JavaScript, R
-  - **Libraries/Frameworks:** TensorFlow, sklearn, xgboost, numpy, pandas, AWS
-  - **Tools:** Git, Jupyter, Linux, pfsense
+  - **Libraries/Frameworks:** numpy, pandas, AWS
+  - **Tools:** Git, Linux, pfsense, TrueNASCore
 
 ## Education
 
@@ -22,6 +22,13 @@ _Specialty_: Artificial Intelligence, Machine Learning, and Computer Vision
 _Related Coursework:_  Machine Learning and Data Mining, Probabilistic Learning and Reasoning, Visual Computing, Computer Graphics, Natural Language Computing, Neural Networks and Deep Learning, Operating Systems, Computer Networks, Databases, Statistics
 
 ## Experience
+
+### Amazon Web Services, Directed Works - Hardware Vetting  
+ *Software Development Engineer*  
+ July 2020 - Present  
+ Seattle, Washington
+
+- Writing automated workflows to vet incoming hardware for AWS
 
 ### Amazon.com, Alexa Mobile Devices  
  *Software Development Engineer Intern*  
@@ -46,9 +53,26 @@ _Related Coursework:_  Machine Learning and Data Mining, Probabilistic Learning 
   
 ## Projects
 
+**Goated Game**
+
+A fast paced multiplayer game of minigames,
+ - players will compete with each other in random minigames
+ - Runs in the browser and is optimized to run on anything with a compatible browser
+
+
 **DynaPlay**
 
-A Game that is fully procedurally generated, try to get through the most amount of procedurally generated minigames
+A Game that is fully procedurally generated, from general worlds down to the core design
 - runs fully on the client with no need to run a backend
 - Can generate unique games that are guaranteed playable
+- Written in completely vanilla javascript, avoided using libraries where I could to gain experience
+
+
+**HomeLab**
+
+A server rack that lives in my closet, is used for personal conveince and to gain hobby level network engineering experience
+ - Router: Pfsense in selfbuilt box
+ - NAS: TrueNas Core in selfbuilt box
+ - DNS adblock: pihole on raspberry pi 3B+
+ 
 
