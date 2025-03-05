@@ -14,8 +14,7 @@
 
 ## 💼 Professional Experience  
 
-### **Amazon**  
-**Seattle, WA**  
+### **Amazon**  --  **Seattle, WA**  
 #### **Software Development Engineer 2** _(January 2025 - Present)_  
 **Amazon Fresh - Item Sourcing and Procurement Software**  
 - Designed a scalable system providing sourceability data for **80+ million sourcing paths** across **700+ stores**, improving sourcing efficiency and decision-making accuracy.  
