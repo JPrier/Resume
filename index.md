@@ -1,55 +1,66 @@
-# Joshua K. Prier                                                                         
-### 607-205-7668
-#### [JoshKPrier@gmail.com](mailto:JoshKPrier@gmail.com)
+# Joshua Prier
 
-[jprier.github.io/](https://jprier.github.io/) | [linkedin.com/in/jprier/](https://www.linkedin.com/in/jprier/) | [github.com/JPrier](https://github.com/JPrier)
+📞 607-205-7668 • ✉️ [JoshKPrier@gmail.com](mailto:JoshKPrier@gmail.com) • [LinkedIn](https://linkedin.com/in/jprier)  
 
-## Skills
+---
 
-  - **Programming:** Python, Ruby, Java, C#, SQL, JavaScript, R
-  - **Libraries/Frameworks:** numpy, pandas, AWS
-  - **Tools:** Git, Linux, pfsense, TrueNAS/FreeNAS
+## 🛠 Skills  
 
-## Education
+- **Technical Languages:** Java, JavaScript/TypeScript, Python, SQL  
+- **Skills:** AWS, CDK, React, Cypress, Android, Gradle, Dagger, REST  
+- **Systems:** Backend, Frontend, Full Stack, Microservices, Cloud Infrastructure, CI/CD  
 
-**University of Toronto**         
-Toronto, Ontario  
-Candidate: Hon B.Sc, Computer Science Specialist  
-December 2019  
+---
 
-_Specialty_: Artificial Intelligence, Machine Learning, and Computer Vision
+## 💼 Professional Experience  
 
-_Related Coursework:_  Machine Learning and Data Mining, Probabilistic Learning and Reasoning, Visual Computing, Computer Graphics, Natural Language Computing, Neural Networks and Deep Learning, Operating Systems, Computer Networks, Databases, Statistics
+### **Amazon**  
+**Seattle, WA**  
+#### **Software Development Engineer 2** _(January 2025 - Present)_  
+**Amazon Fresh - Item Sourcing and Procurement Software**  
+- Designed a scalable system providing sourceability data for **80+ million sourcing paths** across **700+ stores**, improving sourcing efficiency and decision-making accuracy.  
+- Leveraged domain expertise from Whole Foods Inventory & Purchase Management to accelerate onboarding and deliver impactful contributions.  
 
-## Experience
+#### **Software Development Engineer 2** _(August 2022 - January 2025)_  
+**Whole Foods - Inventory & Purchase Management**  
+- Overhauled legacy microservices for real-time data delivery to in-store mobile devices, cutting **database costs by 50%**, improving in-stock performance, and reducing high-severity tickets by **10%**.  
+- Improved service reliability by **50%** and reduced operational costs by **30%** by optimizing architecture and observability.  
+- Mentored **6 junior engineers and interns**, improving code quality by **50%** and contributing to a team member’s promotion to SDE 2 within a year.  
 
-### Amazon Web Services, Directed Works - Hardware Vetting  
- *Software Development Engineer*  
- July 2020 - Present  
- Seattle, Washington
+#### **Software Development Engineer 1** _(June 2021 - August 2022)_  
+- Designed an automated buying process projected to save **$12M annually**, reducing manual inventory work.  
+- Developed a scalable system managing **6+ million items** across **560+ Whole Foods stores**, improving item selection accuracy and reducing assortment latency by **3x**.  
+- Built a backend component for in-store kiosks, **reducing order fulfillment time** and improving kitchen efficiency.  
 
-- Writing automated workflows to vet incoming hardware for AWS
+#### **Software Development Engineer 1** _(July 2020 - June 2021)_  
+**Amazon Web Services - Data Center Automation**  
+- Implemented a feature that **automated issue identification** using Amazon hardware’s System Event Log (SEL), saving thousands of labor hours and reducing downtime by **80%**.  
+- Extended the SEL error identification system to **automatically repair hardware issues**, saving **$4M annually**.  
+- Designed a system to prevent surges of false-positive high-severity hardware tickets, **minimizing unnecessary replacements and reducing labor hours**.  
+- Deployed hardware across multiple AWS Data Centers in **two new regions**, improving deployment efficiency with automation scripts.  
 
-### Amazon.com, Alexa Mobile Devices  
- *Software Development Engineer Intern*  
- June 2018 - August 2018  
- Seattle, Washington
+### **Amazon Internships**  
+#### **Software Development Engineer Intern** _(May 2019 - August 2019)_  
+**Amazon.com - Customer Service Case Management**  
+- Developed and integrated encryption mechanisms into a production customer service application, ensuring **secure handling of sensitive customer data**.  
+- Optimized API performance handling **200 requests per second**.  
 
-- Ambitiously worked on the [Alexa Android Mobile SDK](https://play.google.com/store/apps/details?id=com.amazon.dee.app) for over 10 million clients
-- Conceptualized the Alerts architecture for the Alexa Android Mobile SDK
-- Successfully implemented multi-threading and a SQL Database within the Alerts design
-- Enhanced the quality of the application by successfully resolving three large bugs
+#### **Software Development Engineer Intern** _(June 2018 - August 2018)_  
+**Amazon.com - Alexa Mobile Devices**  
+- Proposed and implemented the **Alerts and Reminders** feature for the Alexa Android Mobile SDK, enabling over **10 million users** to personalize notifications.  
 
-### Amazon.com, Customer Service Case Management
-  *Software Development Engineer Intern*  
-  May 2019 - August 2019  
-  Toronto, Ontario  
-  
-  - Implemented encryption for customer data into a production level service
-  - Added to APIs that are requested 200 times per second
-  - Closely worked with AWS services such as EC2, DynamoDb, RDS, and S3
-  - Built a backfiller to keep a production database up to date
-  - Worked with internal clients to adapt service API calls
+---
+
+## 🎓 Education  
+
+### **University of Toronto**  
+**Toronto, ON**  
+**Honors Bachelor of Science in Computer Science** _(2016 - 2020)_  
+- Specialization in **AI, ML, and Computer Vision**  
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/jprier)
   
 ## Projects
 
