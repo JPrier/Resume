@@ -1,6 +1,6 @@
 # Joshua Prier
 
-📞 607-205-7668 • ✉️ [JoshKPrier@gmail.com](mailto:JoshKPrier@gmail.com) • [LinkedIn](https://linkedin.com/in/jprier)  
+✉️ [JoshKPrier@gmail.com](mailto:JoshKPrier@gmail.com) • [LinkedIn](https://linkedin.com/in/jprier)  
 
 ---
 
